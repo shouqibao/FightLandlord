@@ -1,0 +1,17 @@
+{
+  "iisSettings": {
+    "windowsAuthentication": false,
+    "anonymousAuthentication": true,
+    "iisExpress": {
+      "applicationUrl": "http://localhost:55635/",
+      "sslPort": 0
+    }
+  },
+  "profiles": {
+    "BetGame.DDZ.WebHost": {
+      "commandName": "IISExpress",
+      "launchBrowser": true,
+      "launchUrl": "/index.html"
+    }
+  }
+}
